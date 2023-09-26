@@ -15,7 +15,7 @@ _scipy.stats_
 promptgenerator.py: the main python file for the prompt generator; open it to run the program\
 Slengine.py: contains code that builds the sliders for the brand profile input\
 brand_profiles.py: several example brand profiles that can be used for testing\
-prompt_words.csv: contains all of the emotion words used to build the text prompt\
+prompt_words.csv: contains all of the emotion words used to build the text prompt
 
 ## **Using the generator**
 
