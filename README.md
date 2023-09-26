@@ -2,7 +2,7 @@
 
 Made for use with Facebook's MusicGen (https://github.com/facebookresearch/audiocraft) generative AI.
 
-EXE Build: https://drive.google.com/drive/folders/1W28CXWJ1WehQm2dyIa9BAYsMWScHvuo6?usp=sharing \
+EXE Build: https://drive.google.com/drive/folders/1W28CXWJ1WehQm2dyIa9BAYsMWScHvuo6?usp=sharing 
 
 ## **Setup (if using EXE build)**
   1. Download 'promptgenerator.exe' and 'prompt_words.csv' from the above Google Drive link
