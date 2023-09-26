@@ -4,7 +4,11 @@ Made for use with Facebook's MusicGen (https://github.com/facebookresearch/audio
 
 EXE Build: https://drive.google.com/drive/folders/1W28CXWJ1WehQm2dyIa9BAYsMWScHvuo6?usp=sharing \
 
-## **Setup**
+## **Setup (if using EXE build)**
+  1. Download 'promptgenerator.exe' and 'prompt_words.csv' from the above Google Drive link
+  2. Run 'promptgenerator.exe'
+
+## **Setup (if using source code)**
 
 The program requires the following Python libraries to be installed:\
 _pandas_\
@@ -19,7 +23,7 @@ prompt_words.csv: contains all of the emotion words used to build the text promp
 
 ## **Using the generator**
 
-1. Run the 'promptgenerator.py' python file
+1. Run 'promptgenerator.py' or 'promptgenerator.exe'
 2. A window will appear with 14 sliders corresponding to 14 core brand attributes: use these sliders to input the desired brand profile
-3. Press 'submit' in the slider window
+3. Press 'Enter' in the slider window
 4. A text prompt will be generated that can then be inputted into the MusicGen generative AI to produce original music consistent with the inputted brand profile
