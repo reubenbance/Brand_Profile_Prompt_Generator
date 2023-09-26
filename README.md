@@ -8,7 +8,7 @@ EXE Build: https://drive.google.com/drive/folders/1W28CXWJ1WehQm2dyIa9BAYsMWScHv
 
 The program requires the following Python libraries to be installed:\
 _pandas_\
-_scipy.stats_\
+_scipy.stats_
 
 ## **Files in the source code**
   
