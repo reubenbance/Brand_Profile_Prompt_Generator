@@ -1,6 +1,6 @@
 # Brand profile text prompt generator for MusicGen track generation
 
-Made for use with Facebook's MusicGen (https://github.com/facebookresearch/audiocraft) generative AI.\
+Made for use with Facebook's MusicGen (https://github.com/facebookresearch/audiocraft) generative AI. \
 A Google Colab demo for MusicGen: https://colab.research.google.com/drive/1JlTOjB-G0A2Hz3h8PK63vLZk4xdCI5QB?usp=sharing 
 
 EXE Build: https://drive.google.com/drive/folders/1W28CXWJ1WehQm2dyIa9BAYsMWScHvuo6?usp=sharing 
